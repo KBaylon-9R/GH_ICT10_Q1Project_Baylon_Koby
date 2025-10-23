@@ -1,4 +1,4 @@
-from pyscript import display, document  # type: ignore
+from pyscript import display, document
 
 def create_order(e):
     document.getElementById('output').innerHTML = ""
